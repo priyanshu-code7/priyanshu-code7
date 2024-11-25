@@ -2,7 +2,8 @@
 - 👀 I’m interested in website development 
 - 🌱 I’m currently learning java script 
 - 💞️ I’m looking to collaborate with company HR
-- 📫 Contact: Priyanshu 70495@gmail.com
+- 📫 Contact:
+- Priyanshu 70495@gmail.com
 - 😄 Linkedin profile: Priyanshu kumar
 - ⚡ Having skills and knowledge 
 
