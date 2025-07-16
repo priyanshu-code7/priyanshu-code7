@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priyanshu-code7
 - 👀 I’m interested in website development 
-- 🌱 I’m currently learning java script 
-- 💞️ I’m looking to collaborate with company HR
+- 🌱 
+- 💞️ I’m looking to collaborate with HR
 - 📫 Contact:
 - Priyanshu 70495@gmail.com
 - 😄 Linkedin profile: Priyanshu kumar
